@@ -1,6 +1,6 @@
 # Menu
 - Soep: Pompoensoep
-- Hoofdgerecht: Stoofvlees
+- Hoofdgerecht: Spareribs
 - Prijs: 14 euro
 
 - Dessert: Tiramisu
