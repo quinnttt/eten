@@ -1,7 +1,7 @@
 # Menu
 - Soep: Pompoensoep
 - Hoofdgerecht: Stoofvlees
-- Prijs: 12 euro
+- Prijs: 14 euro
 
 - Dessert: Tiramisu
 - Drank: Water
